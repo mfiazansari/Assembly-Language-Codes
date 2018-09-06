@@ -48,5 +48,5 @@ exit:
 	mov ax,0x4c00
 	int 0x21
 
-name: db 'noman fiaz aneeq sajad usama'
-length: dw 28
+name: db 'noman fiaz aneeq sajad usama asad'
+length: dw 33
